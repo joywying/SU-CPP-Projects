@@ -19,6 +19,11 @@ Scores a boggle board.
 # merge
 Functions for binary merge, multimerge (iteratively and recursively)
 
+# pqheap
+Priority queue heap implementation
+
+# pqsortedarray
+Priority queue sorted array implementation
 
 
 
