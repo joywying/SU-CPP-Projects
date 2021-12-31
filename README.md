@@ -10,6 +10,16 @@ Solves mazes using breadth-first search.
 # search
 Basic search engine which works given a text file of tokens. 
 
+# balanced
+Checks whether operations are balanced in a given string... are parentheses balanced etc. 
+
+# boggle
+Scores a boggle board.
+
+# merge
+Functions for binary merge, multimerge (iteratively and recursively)
+
+
 
 
 
