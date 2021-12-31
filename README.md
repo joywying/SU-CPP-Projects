@@ -26,9 +26,10 @@ Priority queue heap implementation
 Priority queue sorted array implementation
 
 # sorting
-merge sort and quick sort with linked lists
+Merge sort and quick sort with linked lists
 
-
+# huffman
+Functions for huffman coding decompression and compression. More code needed for compression/decompression contained in main (provided by course). 
 
 
 
