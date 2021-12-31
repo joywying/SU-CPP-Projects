@@ -25,6 +25,9 @@ Priority queue heap implementation
 # pqsortedarray
 Priority queue sorted array implementation
 
+# sorting
+merge sort and quick sort with linked lists
+
 
 
 
